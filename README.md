@@ -26,6 +26,7 @@ This project involves building a machine learning model to detect fraudulent cre
    ```bash
    git clone https://github.com/shrutiijainn11/Credit-Card-Fraud-Detection.git
 2. **Install the required libraries**:
+   ```bash
    pip install -r requirements.txt
 
 ### Examples
